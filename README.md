@@ -9,7 +9,6 @@
 
 # Links:
 
-- [Site](https://felipelroll.wixsite.com/felipelroll)
 - [Linkedin](https://www.linkedin.com/in/felipe-roll/)
 - [Email](felipelroll@gmail.com)
 - [GitHub](https://github.com/FelipeLRoll)
